@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="3.4">
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2020-12-12T21:07:02" time="2.322" tests="3">
+    <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.249">
+    </testcase>
+    <testcase classname="AppComponent should have as title &apos;trustify-profiles-pages&apos;" name="AppComponent should have as title &apos;trustify-profiles-pages&apos;" time="0.149">
+    </testcase>
+    <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.1">
+    </testcase>
+  </testsuite>
+</testsuites>

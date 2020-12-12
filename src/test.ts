@@ -1,4 +1,4 @@
-// import '@angular/localize/init';
+import '@angular/localize/init';
 import 'jest-preset-angular';
 
 Object.defineProperty(window, 'CSS', { value: null });
